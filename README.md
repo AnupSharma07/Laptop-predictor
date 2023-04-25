@@ -1,1 +1,0 @@
-# Laptop-predictor
